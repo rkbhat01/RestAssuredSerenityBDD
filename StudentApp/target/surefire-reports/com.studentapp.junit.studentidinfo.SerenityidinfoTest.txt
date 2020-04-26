@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentidinfo.SerenityidinfoTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.962 s - in com.studentapp.junit.studentidinfo.SerenityidinfoTest
